@@ -20,7 +20,7 @@ This repository hosts the group assignment for COMP3104 DevOps course, focusing 
 4. Clone the repository.
 5. Switch to your branch using `git checkout STUDENTID-Name`.
 6. Commits
-7. Puul requests
+7. Pull requests
 
 ## CI/CD Pipeline
 
@@ -28,7 +28,7 @@ The project utilizes GitHub Actions for continuous integration. The workflow is 
 
 ## Filter
 
-Commit control within .gitignore to manage which files should not be included in version control.
+Commit control within .gitignore to manage which files should not be included in repository.
 
 ## Branching Strategy
 
