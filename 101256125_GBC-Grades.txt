@@ -1,0 +1,16 @@
+Two types of averages are used. The term / semester Grade Point Average (G.P.A.) 
+is based on the courses taken in a single term / semester, while the Cumulative Grade Point Average
+(C.G.P.A.) takes into account all credit courses taken at the time of calculation.
+
+A term/semester G.P.A. value of 1.70 (Diploma/Certificate Program) 
+or 2.3 (Degree Program) is the minimum qualification for promotion from one term/semester to the next.
+A cumulative G.P.A. value of 1.70 (Diploma/Certificate Program) 
+or 2.3 (Degree Program) is the minimum graduation requirement.
+A cumulative G.P.A. value of 3.50 (Diploma/Certificate Program) 
+or 3.7 (Degree Program) is the minimum requirement for HONOURS.
+College policies regarding the clearing of failures and Divisional requirements are considered in addition to the above. 
+Refer to Division promotional policies for program specific requirements.
+
+CRED – Credit is defined as – One credit equals one hour of instruction per week over the duration of the term/semester.
+
+PTS – Points is defined as – the product of the CRED and GRD (Grade Point Value Equivalent).
