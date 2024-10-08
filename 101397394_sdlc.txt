@@ -1,0 +1,10 @@
+Software development Lifecycle(SDLC) is a cost-efffective and time-efficient
+process that development teams use to design and build software.
+This Lifecycle outlines several tasks required to build a software 
+application. The phases are listed below for this process-
+Plan
+Design
+Implement
+Test
+Deploy
+Maintain
