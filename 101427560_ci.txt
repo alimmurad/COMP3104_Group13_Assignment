@@ -1,0 +1,2 @@
+CI is the practice of frequently integrating code changes into a shared repository, where automated builds and tests are run. 
+This ensures that new code works with the existing codebase and helps catch issues early in development.
