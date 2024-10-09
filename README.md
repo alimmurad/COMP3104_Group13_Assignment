@@ -5,7 +5,7 @@
 - **Leader:** Murad Alimov (101256125) - [GitHub](https://github.com/alimmurad)
 - **Member 2:** Ahad Abdul (101447984) - [GitHub](https://github.com/AhadNasrat)
 - **Member 3:** Abdulgafar Towolawi (101462578) - [Github] (https://github.com/Whyx91)
-- **Member 4:**Subhan Mohammed Abdul (101397394) - [Github](https://github.com/ssubhan21)
+- **Member 4:** Subhan Mohammed Abdul (101397394) - [Github](https://github.com/ssubhan21)
 - **Member 5:** Bhavya Vaghela (101427560) - https://github.com/Bhavyaa2511
 - **Member 6:**
 
