@@ -1,0 +1,2 @@
+Hello !!  My name is Abdulgafar Towolawi with StudentID 101462578. I took this course because 
+it enables smoother collaboration between development and operations, also involves in automating repetitive task, such as deployments,testing and monitoring. I enjoy finding ways to make processes faster and more efficient. So i enjoyed it.
