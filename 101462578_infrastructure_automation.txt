@@ -1,0 +1,15 @@
+Title: Infrastructure Automation in DevOps
+
+1. Introduction to Infrastructure Automation:
+   - Infrastructure as Code (IaC) enables automated provisioning and management of infrastructure.
+   - Common tools include Terraform, Ansible, and AWS CloudFormation.
+
+2. Benefits of Infrastructure Automation:
+   - Consistency: Ensures that all environments are configured identically.
+   - Scalability: Automates the scaling of resources to meet demand.
+   - Speed: Speeds up the provisioning process, reducing manual work.
+
+3. Tools for Infrastructure Automation:
+   - **Terraform**: Allows the provisioning of infrastructure on multiple cloud platforms.
+   - **Ansible**: Manages configuration and deployment using simple YAML files.
+   - **AWS CloudFormation**: Manages AWS infrastructure through code.
