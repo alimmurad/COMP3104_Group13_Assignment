@@ -1,0 +1,3 @@
+This is Devops that combines development and operations to increase the 
+efficiency, speed and security of software development.
+its about unification and automation of processes.
