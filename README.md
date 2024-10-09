@@ -6,7 +6,7 @@
 - **Member 2:**
 - **Member 3:**
 - **Member 4:**
-- **Member 5:**
+- **Member 5:**Bhavya Vaghela (101427560) -[GitHub](https://github.com/Bhavyaa2511) 
 
 ## Project Description
 
