@@ -4,7 +4,7 @@
 
 - **Leader:** Murad Alimov (101256125) - [GitHub](https://github.com/alimmurad)
 - **Member 2:**
-- **Member 3:**
+- **Member 3:** Abdulgafar Towolawi (101462578) - [Github] (https://github.com/Whyx91)
 - **Member 4:**
 - **Member 5:**
 
