@@ -1,0 +1,2 @@
+CD extends CI by automatically deploying tested changes to production or staging environments.
+ The goal is to ensure that the code is always in a deployable state, allowing for frequent and reliable releases.
