@@ -1,0 +1,9 @@
+Title: Deployment Guide for DevOps Projects
+
+1. Prerequisites:
+   - Ensure code is committed and tested.
+   - Verify configurations for the target environment.
+
+2. Steps to Prepare for Deployment:
+   - Set up the deployment environment (e.g., staging, production).
+   - Define environment variables and secrets
