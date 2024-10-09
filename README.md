@@ -10,7 +10,7 @@
 
 ## Project Description
 
-This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, commits, branching strategies, and CI/CD integration.
+This repository hosts the group assignment for COMP3104 DevOps course Group 13, focusing on collaborative Git workflows, commits, branching strategies, and CI/CD integration.
 
 ## Setup Instructions
 
