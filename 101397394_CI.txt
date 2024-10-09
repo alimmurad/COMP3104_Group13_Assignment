@@ -1,0 +1,4 @@
+CI and CD stand for continuous integration and continuous delivery/continuous
+deployment. In very simple terms, CI is a modern software development 
+practice in which incremental code changes are made frequently and 
+reliably.
