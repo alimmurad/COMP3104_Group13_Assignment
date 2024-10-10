@@ -1,0 +1,1 @@
+DevOps is crucial in the SDLC as it bridges the gap between development and operations, ensuring faster deployment, higher quality, and better collaboration.
