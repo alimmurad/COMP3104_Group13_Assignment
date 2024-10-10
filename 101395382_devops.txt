@@ -1,1 +1,2 @@
 COMP 3104 is a DevOps course that focuses on software development automation, continuous integration (CI), and continuous deployment (CD).
+COMP 3104 introduces students to DevOps principles and practices, emphasizing automation in the software development lifecycle.
